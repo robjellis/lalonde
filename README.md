@@ -1,4 +1,4 @@
-## Forked copy of the LaLonde dataset in CSV format
+## Forked copy of the Lalonde dataset in CSV format
 
 ### Used by MatchIt in R:
 https://gking.harvard.edu/matchit 

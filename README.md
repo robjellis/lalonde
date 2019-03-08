@@ -7,7 +7,7 @@ https://cran.r-project.org/web/packages/MatchIt/index.html
 ### Obtained as follows (using R):
 `library(MatchIt)`
 
-`data(LaLonde)`
+`data("lalonde")`
 
 `write.csv(lalonde,file='lalonde_data.csv')`
 

@@ -4,6 +4,11 @@
 https://gking.harvard.edu/matchit 
 https://cran.r-project.org/web/packages/MatchIt/index.html
 
+## Obtained as follows (using R):
+`library(MatchIt)`
+`data(LaLonde)`
+`write.csv(lalonde,file='lalonde_data.csv')`
+
 ### Details from [here](https://rdrr.io/cran/MatchIt/man/lalonde.html):
 A data frame with 614 observations (185 treated, 429 control). 
 There are 10 variables measured for each individual: 
